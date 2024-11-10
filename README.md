@@ -3,6 +3,10 @@
 
 ### 1.[debugger](https://github.com/yueseqaz/Kasumi/edit/main/bandebugger.js) 
 the debugger is a tool designed to protect your website pages. It can disable the debugger and automatically redirect any attempts to debug to a default URL. However, it is not sufficiently secure. When using it, please be aware of this limitation!
+#### example
+```
+<script src="https://cdn.jsdelivr.net/gh/yueseqaz/Kasumi/bandebugger.js"></script>
+```
 
 
 
