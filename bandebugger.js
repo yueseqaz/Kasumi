@@ -1,4 +1,4 @@
-<script>
+
 (function securePage() {
   const redirectURL = ''; // 重定向目标地址 这里填你想要跳转的网站
   
@@ -90,4 +90,3 @@
   // 开始调试器检测
   detectDebugger();
 })();
-</script>
