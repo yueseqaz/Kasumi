@@ -7,7 +7,8 @@ the debugger is a tool designed to protect your website pages. It can disable th
 ```
 <script src="https://cdn.jsdelivr.net/gh/yueseqaz/Kasumi/bandebugger.js"></script>
 ```
-![kasumi](https://cdn.jsdelivr.net/gh/yueseqaz/Kasumi@main/003.png)
+![Description](https://github.com/yueseqaz/Kasumi/raw/main/003.png)
+
 
 
 
