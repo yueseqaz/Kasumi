@@ -12,10 +12,3 @@ the ban-devtool is a tool designed to protect your website pages. It can disable
 <script src="https://cdn.jsdelivr.net/gh/yueseqaz/Kasumi@main/bandevtool.js"></script>
 ```
 **please notice use you url replace my example url! I will suggest you choose after Obfuscation code.bc it's safer  **
-
-
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yueseqaz&show_icons=true&theme=rose)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yueseqaz)](https://github.com/anuraghazra/github-readme-stats)
