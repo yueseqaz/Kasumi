@@ -3,12 +3,8 @@
 
 ### 1.[ban-devtool](https://github.com/yueseqaz/Kasumi/) 
 the ban-devtool is a tool designed to protect your website pages. It can disable the debugger and automatically redirect any attempts to debug to a default URL. However, it is not sufficiently secure. When using it, please be aware of this limitation!
-#### before Obfuscation example
-```
-<script src="https://cdn.jsdelivr.net/gh/yueseqaz/Kasumi@main/bandebugger.js"></script>
-```
+
 #### after Obfuscation example
 ```
 <script src="https://cdn.jsdelivr.net/gh/yueseqaz/Kasumi@main/bandevtool.js"></script>
 ```
-**please notice use you url replace my example url! I will suggest you choose after Obfuscation code.bc it's safer  **
