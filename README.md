@@ -6,7 +6,7 @@
 
 ## 📌 Available Scripts  
 
-### 1. [ban-devtool](https://github.com/yueseqaz/js-repo/ban-devtool/) 🚫🔍  
+### 1. [ban-devtool](https://github.com/yueseqaz/js-repo/blob/main/bandevtool.js) 🚫🔍  
 `ban-devtool` is a lightweight script designed to enhance the security of your website by preventing debugging attempts. It automatically disables developer tools and redirects any debugging attempts to a default URL or `#`.  
 
 ⚠ **Note:** This script provides a basic level of protection but is not foolproof. Advanced users may still find ways to bypass it, so use it as an additional security layer rather than a sole defense mechanism.  
