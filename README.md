@@ -14,4 +14,4 @@
 #### ✅ How to Use  
 Simply include the script in your webpage:  
 ```html
-<script src="https://cdn.jsdelivr.net/gh/yueseqaz/Kasumi@main/bandevtool.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/yueseqaz/js-repo@main/bandevtool.js"></script>
